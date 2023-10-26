@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "path": "C:/Users/Tejas/Desktop/TradePlan/SE/resources/StockedgeSectors"
+  },
+  "output": {
+    "output_file": "C:/Users/Tejas/Desktop/TradePlan/SE/output/SectorRotation.xlsx",
+    "sheet_1": "ALL",
+    "sheet_2": "MAP"
+  }
+}
